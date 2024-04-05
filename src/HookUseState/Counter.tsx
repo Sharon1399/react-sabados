@@ -31,6 +31,8 @@ export const Counter = () => {
     <button type="button" onClick={increment}>++</button>
 
     <button type="button" onClick={reset}>Reset</button>
+
+    <h1>Aiuda</h1>
     </>
   )
 }
