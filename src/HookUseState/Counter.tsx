@@ -32,7 +32,7 @@ export const Counter = () => {
 
     <button type="button" onClick={reset}>Reset</button>
 
-    <h1>Aiuda</h1>
+    <h1>Aiuda 2</h1>
     </>
   )
 }
